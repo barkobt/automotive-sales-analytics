@@ -1,4 +1,4 @@
-🚗 Automotive Sales Analytics
+# 🚗 Automotive Sales Analytics
 
 Exploratory data analysis of 100,000 automotive sales transactions, uncovering customer behavior patterns, geographic trends, and product performance insights.
 
